@@ -1,0 +1,42 @@
+References:
+
+[1] Wang, Shijun, and Ronald M. Summers. Machine Learning and Radiology. Medical Image Analysis 16, no. 5 (2012): 933-951. https://doi.org/10.1016/j.media.2012.02.005.
+
+[1] Y. Xue, T. Xu, L.R. Long, Z. Xue, S. Antani, G.R. Thoma, X. Huang Multimodal recurrent model
+with attention for automated radiology report generation Proceedings of the international conference
+on medical image computing and computer-assisted intervention (MICCAI), Springer, Granada, Spain
+(2018), pp. 457-466
+
+
+[2] Mazurowski, M.A., Buda, M., Saha, A. and Bashir, M.R. (2019), Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI. J. Magn. Reson. Imaging, 49: 939-954. https://doi.org/10.1002/jmri.26534
+
+[3] Sahiner, B., Pezeshk, A., Hadjiiski, L.M., Wang, X., Drukker, K., Cha, K.H., Summers, R.M. and Giger, M.L. (2019), Deep learning in medical imaging and radiation therapy. Med. Phys., 46: e1-e36. https://doi.org/10.1002/mp.13264
+
+[4] Cho, Kyunghyun, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation." 2014. arXiv preprint, 1406.1078, cs.CL.
+
+[5] Hesamian, Mohammad Hesam, Wenjing Jia, Xiangjian He, and Paul Kennedy. "Deep learning techniques for medical image segmentation: achievements and challenges." Journal of digital imaging 32 (2019): 582-596.
+
+[6] Doi, Kunio. "Computer-aided diagnosis in medical imaging: historical review, current status and future potential." Computerized medical imaging and graphics 31, no. 4-5 (2007): 198-211.
+
+[7] Chen, Chung-Ming, Yi-Hong Chou, Norio Tagawa, and Younghae Do. "Computer-aided detection and diagnosis in medical imaging." Computational and mathematical methods in medicine 2013 (2013).
+
+[8] Z. Xue et al., "Chest X-ray Image View Classification," 2015 IEEE 28th International Symposium on Computer-Based Medical Systems, Sao Carlos, Brazil, 2015, pp. 66-71, doi: 10.1109/CBMS.2015.49.
+
+[9] S. Candemir, S. Rajaraman, G. Thoma and S. Antani, "Deep Learning for Grading Cardiomegaly Severity in Chest X-Rays: An Investigation," 2018 IEEE Life Sciences Conference (LSC), Montreal, QC, Canada, 2018, pp. 109-113, doi: 10.1109/LSC.2018.8572113.
+
+[10] S. V. G, N. Ponraj and D. P. L, "Study on Public Chest X-ray Data sets for Lung Disease Classification," 2021 3rd International Conference on Signal Processing and Communication (ICPSC), Coimbatore, India, 2021, pp. 54-58, doi: 10.1109/ICSPC51351.2021.9451726.
+
+[11] Akbar, Wajahat, Muhammad Inam Ul Haq, Abdullah Soomro, Sher Muhammad Daudpota, Ali Shariq Imran, and Mohib Ullah. "Automated Report Generation: A GRU Based Method for Chest X-Rays." In 2023 4th International Conference on Computing, Mathematics and Engineering Technologies (iCoMET), pp. 1-6. IEEE, 2023.
+
+[12] Lee, Seowoo, Jiwon Youn, Mansu Kim, and Soon Ho Yoon. "CXR-LLaVA: Multimodal Large Language Model for Interpreting Chest X-ray Images." arXiv preprint arXiv:2310.18341 (2023).
+
+[13]Liu, Weihua, Youyuan Xue, Chaochao Lin, and Said Boumaraf. "Dynamic Multi-Domain Knowledge Networks for Chest X-ray Report Generation." arXiv preprint arXiv:2310.05119 (2023).
+
+[14] Demner-Fushman, D., Kohli, M.D., Rosenman, M.B., Shooshan, S.E., Rodriguez, L., Antani, S., Thoma, G.R., McDonald, C.J.: Preparing a collection of radiology examinations for distribution and retrieval. J. Am. Med. Inform. Assoc. 23(2), 304–310 (2015)
+
+
+
+
+[ZXX] Bustos, Aurelia, Antonio Pertusa, Jose-Maria Salinas, and Maria de la Iglesia-Vayá. "PadChest: A large chest x-ray image dataset with multi-label annotated reports." Medical Image Analysis 66 (2020): 101797. https://doi.org/10.1016/j.media.2020.101797.
+
+
