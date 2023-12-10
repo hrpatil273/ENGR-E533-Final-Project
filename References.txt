@@ -35,8 +35,6 @@ on medical image computing and computer-assisted intervention (MICCAI), Springer
 [14] Demner-Fushman, D., Kohli, M.D., Rosenman, M.B., Shooshan, S.E., Rodriguez, L., Antani, S., Thoma, G.R., McDonald, C.J.: Preparing a collection of radiology examinations for distribution and retrieval. J. Am. Med. Inform. Assoc. 23(2), 304–310 (2015)
 
 
-
-
 [ZXX] Bustos, Aurelia, Antonio Pertusa, Jose-Maria Salinas, and Maria de la Iglesia-Vayá. "PadChest: A large chest x-ray image dataset with multi-label annotated reports." Medical Image Analysis 66 (2020): 101797. https://doi.org/10.1016/j.media.2020.101797.
 
 
